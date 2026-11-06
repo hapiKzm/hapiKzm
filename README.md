@@ -6,8 +6,8 @@ Master ICT: Software Engineering student at Saxion University of Applied Science
 **Looking for a graduation internship from February 2027**, and for backend / Java roles in the Netherlands after I graduate in July 2027.
 
 - 3 years building Java/Spring Boot systems for a regional electric utility:
-  a maintenance platform for 180 high-voltage substations (~29,700 equipment records),
-  a configurable test-sheet and workflow engine (148 test sheets, 860 service codes)
+  a maintenance platform for 180 high-voltage substations (29,000+ equipment records),
+  a configurable test-sheet and workflow engine (140+ test sheets, 850+ service codes)
   and the backend of a vehicle dispatch system with live GPS tracking and routing.
 - Freelance in 2026: a multi-tenant fuel-station platform (Next.js, TypeScript) and a Python/FastAPI edge gateway that streams live data from on-site devices to the cloud.
 
